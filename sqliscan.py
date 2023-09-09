@@ -75,3 +75,4 @@ def sql_injection_scan(url):
 
 if __name__ == '__main__':
     scan_url = 'http'
+    sql_injection_scan(scan_url)
